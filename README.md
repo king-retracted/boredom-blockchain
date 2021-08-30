@@ -74,3 +74,7 @@ if (chain.verify() == true) {
 
 # License
 This project is under the ``MIT License``. You can view it in the ``LICENSE`` file.
+
+---
+
+Version: 1.0.1
