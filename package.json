@@ -1,14 +1,19 @@
 {
   "name": "boredom-blockchain",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A Blockchain framework thing I made because I was bored.",
   "main": "blockchain.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "kingretracted",
+  "author": "kingretracted <kingretracted4yt@gmail.com> (https://github.com/king-retracted)",
   "license": "MIT",
+  "homepage": "https://github.com/king-retracted/boredom-blockchain",
+  "bugs": {
+      "url": "https://github.com/king-retracted/boredom-blockchain/issues",
+      "email": "kingretracted4yt@gmail.com"
+  },
   "repository": {
       "type": "git",
       "url": "https://github.com/king-retracted/boredom-blockchain"
