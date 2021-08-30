@@ -41,7 +41,7 @@ class Blockchain {
     }
     /**
      * Creates and inserts a Block to the Blockchain.
-     * @param {string} data - Data of the Block.
+     * @param {Object} data - Data of the Block.
      * @param {string} name - Name of reference.
      * @returns {true} 
      */
