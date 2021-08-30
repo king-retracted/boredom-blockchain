@@ -1,9 +1,12 @@
 {
   "name": "boredom-blockchain",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "A Blockchain framework thing I made because I was bored.",
   "main": "blockchain.js",
   "type": "module",
+  "keywords": [
+      "blockchain"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

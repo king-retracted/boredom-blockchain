@@ -77,4 +77,4 @@ This project is under the ``MIT License``. You can view it in the ``LICENSE`` fi
 
 ---
 
-Version: 1.0.4
+Version: 1.0.5
