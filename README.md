@@ -67,6 +67,18 @@ if (chain.verify() == true) {
 }
 ```
 
+# To Do
+- Turn this from a project made out of boredom to a project worth maintaining and pushing forward [ ✅ ]
+- Enable a more customizable Blockchain. [ 🚫 ]
+- Introduce settings parameter for the creation of the Blockchain. [ 🚫 ]
+- Exporting/Importing a Blockchain. [ 🚫 ]
+- Support for verifiying across a p2p network. [ 🚫 ]
+- Introducing a Proof-of-Work to the framework. [ 🚫 ]
+- Automatic verifiction every ``x`` minutes. [ 🚫 ]
+- Rate limiting on the creation of blocks in the network (proof-of-work). [ 🚫 ]
+- Add more security features. [ 🚫 ]
+- Fix ugly documentation. [ 🚫 ]
+
 # Contributing
 ```js
 // This section is empty
@@ -77,4 +89,4 @@ This project is under the ``MIT License``. You can view it in the ``LICENSE`` fi
 
 ---
 
-Version: 1.0.5
+Version: 1.0.6
