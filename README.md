@@ -67,11 +67,23 @@ if (chain.verify() == true) {
 }
 ```
 
+# Exporting/Importing a Blockchain
+!!! These functions are only in the ``blockchain.new.js`` file. (Developer Module)
+
+To export a Blockchain, call the ``export(path='output')`` function which will create a new folder and file with the folder ``path`` (default: output)
+
+To import a Blockchain, call the ``import(path, recalculateHash=false)`` function with the path being the path of the **file**. If you enable the ``recalcuateHash``, it will recalculate the hash of the block.
+
+```js
+chain.import(`${__dirname}/src/output/1630463485137-export-blockchain.txt`);
+chain.export(`${__dirname}/output`); // output folder in the Root directory
+```
+
 # To Do
 - Turn this from a project made out of boredom to a project worth maintaining and pushing forward [ ✅ ]
 - Enable a more customizable Blockchain. [ 🚫 ]
 - Introduce settings parameter for the creation of the Blockchain. [ 🚫 ]
-- Exporting/Importing a Blockchain. [ 🚫 ]
+- Exporting/Importing a Blockchain. [ 🟡 ]
 - Support for verifiying across a p2p network. [ 🚫 ]
 - Introducing a Proof-of-Work to the framework. [ 🚫 ]
 - Automatic verifiction every ``x`` minutes. [ 🚫 ]

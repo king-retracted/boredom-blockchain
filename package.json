@@ -1,8 +1,8 @@
 {
   "name": "boredom-blockchain",
   "version": "1.0.6",
-  "description": "A Blockchain framework thing I made because I was bored.",
-  "main": "blockchain.js",
+  "description": "A customizable Blockchain framework I created because I was bored.",
+  "main": "src/blockchain.js",
   "type": "module",
   "keywords": [
       "blockchain"
