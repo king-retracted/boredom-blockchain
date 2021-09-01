@@ -1,3 +1,7 @@
+<p align="center">
+    <img src="https://i.ibb.co/4FVG3gG/Boredom-Blockchain.png" alt="Boredom Blockchain">
+</p>
+
 # boredom-blockchain
 A Blockchain framework thing I made because I was bored.
 
