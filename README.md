@@ -101,4 +101,4 @@ This project is under the ``MIT License``. You can view it in the ``LICENSE`` fi
 
 ---
 
-Version: 1.0.6
+Version: 1.0.7

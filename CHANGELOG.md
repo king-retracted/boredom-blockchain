@@ -1,6 +1,6 @@
 # Changelog
 
-### Latest (1.0.6b)
+### Latest (1.0.7)
 - Introduced the ``export()`` and ``import()`` function in the ``blockchain.new.js``
 
 ### (1.0.6)
