@@ -75,7 +75,7 @@ class Blockchain {
         const timestamp = Date.now();
         const folderComp = path;
         if (!fs.existsSync(folderComp)) fs.mkdirSync(folderComp);
-        const filename = (process.platform == 'win32') ? `${folderComp}\\${timestamp}-export-blockchain.txt` : `${folderComp}/`;
+        const filename = (process.platform == 'win32') ? `${folderComp}\\${timestamp}-export-blockchain.txt` : `${folderComp}/${timestamp}-export-blockchain.txt`;
         const HEADER_INFO = `
             # Running OS: ${process.platform} with ${process.version}.
             # Blockchain Length: ${this.blockchain.length}.
