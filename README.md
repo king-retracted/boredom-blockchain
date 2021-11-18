@@ -1,3 +1,5 @@
+# This project has been discontinued ❗❗
+
 <p align="center">
     <img src="https://i.ibb.co/4FVG3gG/Boredom-Blockchain.png" alt="Boredom Blockchain">
 </p>
